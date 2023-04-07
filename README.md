@@ -1,4 +1,4 @@
-![top_banner](https://user-images.githubusercontent.com/130163471/230645038-1da071e6-a463-43d0-a537-deaa8f3be8f4.png)
+![Top_banner](https://user-images.githubusercontent.com/130163471/230646010-4f5a0060-c159-427d-824c-694276b51f5c.png)
 
 <div align="center"> <h1>Welcome to my profile! </div>
 
@@ -42,4 +42,6 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namoura&show_icons=true&locale=en" alt="namoura" /></p>
 </div>
+<p>
+<img src="https://user-images.githubusercontent.com/130163471/230646225-fd586eef-f930-43f8-ae2d-937d82678dc3.png">
 
