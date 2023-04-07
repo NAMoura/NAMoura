@@ -1,7 +1,6 @@
-<img src="https://live.staticflickr.com/7889/47435209832_f43fb5675a_k.jpg" alt="Frozen Lake"/>
-<h1 align="center">Hi 👋, welcome to my profile!</h1>
-<h3 align="center">My name is Nuno Moura</h3>
-<hr>
+![top_banner](https://user-images.githubusercontent.com/130163471/230645038-1da071e6-a463-43d0-a537-deaa8f3be8f4.png)
+
+<div align="center"> <h1>Welcome to my profile! </div>
 
 <div align="center"> - 🔭 I’m currently working on improving myself </div>
 
@@ -43,3 +42,4 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namoura&show_icons=true&locale=en" alt="namoura" /></p>
 </div>
+
