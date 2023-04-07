@@ -1,4 +1,5 @@
-![Top_banner](https://user-images.githubusercontent.com/130163471/230646010-4f5a0060-c159-427d-824c-694276b51f5c.png)
+![top_banner](https://user-images.githubusercontent.com/130163471/230646898-44f6eb2f-12e3-4ddd-b708-17ab85d20124.png)
+
 
 <div align="center"> <h1>Welcome to my profile! </div>
 
