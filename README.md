@@ -7,7 +7,6 @@
 
 <div align="center"> - 🌱 I’m currently learning FullStack Development </div>
 
-<div align="center"> - ⚡ You can download my CV here </div>
 <hr>
 
 <p></p>
