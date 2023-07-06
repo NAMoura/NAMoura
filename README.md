@@ -3,9 +3,11 @@
 
 <div align="center"> <h1>Welcome to my profile! </div>
 
-<div align="center"> - 🔭 I’m currently working on improving myself </div>
+<div align="center"> - 🔭 Recently completed a coding bootcamp at <AcademiadeCódigo_> </div>
 
-<div align="center"> - 🌱 I’m currently learning FullStack Development </div>
+<div align="center"> - 🌱 Junior Full Stack Developer eager to learn and grow </div>
+
+<div align="center"> - 💬 Ask me about the projects I'm working on </div>
 
 <hr>
 
@@ -27,7 +29,9 @@
     </td>
     <td align=center>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongoDb" width="40" height="40"/> </a> 
     </td>
+    
 </table>
 
 <p></p>
